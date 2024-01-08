@@ -2,7 +2,8 @@ This is a simple flutter app, where you can transfer Text and Images from one Pa
  
 Click the 'Upload Icon Button' located at bottom left corner on 'Home Page' to navigate to 'Upload Page'.
 
-On 'Upload Page' you'll get options to Insert 'Name', 'Price', and 'Image'. // In 'Price' section you can only insert numbers.
+On 'Upload Page' you'll get options to Insert 'Name', 'Price', and 'Image'. 
+// In 'Price' section you can only insert numbers.
 
   Insert Name and Price, and 'Pick Image' from Internal Storage of your Device.
   
