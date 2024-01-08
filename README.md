@@ -1,16 +1,8 @@
-# expriment
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a simple flutter app, where you can transfer Text and Images from one Page(Upload Page) to another(Home Page).
+ 
+Click the 'Upload Icon Button' located at bottom left corner on 'Home Page' to navigate to 'Upload Page'.
+On 'Upload Page' you'll get options to Insert 'Name', 'Price', and 'Image'. // In 'Price' section you can only insert numbers.
+  Insert Name and Price, and 'Pick Image' from Internal Storage of your Device.
+  Click 'Upload' button to Transfer Inserted Data to the 'Home Page'.
+  You can Transfer Data multiple times, and the data will be alligned in a List on 'Home Page'.
+On 'Upload Page', after Uploading(Transfering Data to Home Page) you can 'Delete' last Uploaded(last Data/Item on the List on Home Page) data by clicking 'Delete' button.
